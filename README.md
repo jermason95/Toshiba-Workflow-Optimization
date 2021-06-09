@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=6uo1KxRwj-Q&list=WL&index=1
 
 #### Success of this project:
 
-**Customer Experience** → Average time in queque dropped 91%, Average number of customers in queque down 94%
+***Customer Experience*** → Average time in queque dropped 91%, Average number of customers in queque down 94%
 
 **Profits** →  Toshiba would profit $132,000 in our labor and equipment redesign
 
