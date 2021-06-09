@@ -14,6 +14,7 @@ These are frustrations we all have when we shop, and we all shop for groceries, 
 
 
 <br/>
+
 ### The main findings of our report can be see at 
 
 https://github.com/jermason95/Toshiba-Workflow-Optimization/blob/c977bb989c069ca88f2b3eed8fed445d8a0dd287/Copy%20of%20Toshiba%20Final%20Report.pdf
