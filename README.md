@@ -13,6 +13,7 @@ These are frustrations we all have when we shop, and we all shop for groceries, 
 •	Improving loss prevention methods
 
 
+![image](https://user-images.githubusercontent.com/85593608/121385030-c49cb580-c916-11eb-8102-e21698a2c02e.png)
 
 
 
@@ -20,13 +21,12 @@ These are frustrations we all have when we shop, and we all shop for groceries, 
 The main findings of our report can be see at .see report full report above Copy of Toshiba Final Report.pdf
 
 
-A copy of the simulation described in the report can be seen here: 
+The simulation model used to analyze our new supermarket layout can be seen here: 
 https://www.youtube.com/watch?v=6uo1KxRwj-Q&list=WL&index=1
 
 
-[toshiba-bevilacqua-brugnoli-mani-mason-ratliff-01.pdf]
 
-(https://github.com/jermason95/Toshiba-Workflow-Optimization/files/6623809/toshiba-bevilacqua-brugnoli-mani-mason-ratliff-01.pdf)
+(https://github.com/jermason95/Toshiba-Workflow-Optimization/Copy of Toshiba Final Report.pdf)
 
 
 
