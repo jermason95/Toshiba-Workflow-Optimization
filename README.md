@@ -23,30 +23,31 @@ https://github.com/jermason95/Toshiba-Workflow-Optimization/blob/c977bb989c069ca
 
 https://www.youtube.com/watch?v=6uo1KxRwj-Q&list=WL&index=1
 
-
-
-
-
+ 
+  
+  
+  
 
 #### Success of this project:
 
 ***Customer Experience*** → Average time in queque dropped 91%, Average number of customers in queque down 94%
 
-**Profits** →  Toshiba would profit $132,000 in our labor and equipment redesign
+***Profits*** →  Toshiba would profit $132,000 in our labor and equipment redesign
 
-**Recognistion** →  Recieved 1st place in NC States ISE Senior Design 2018
+***Recognistion*** →  Recieved 1st place in NC States ISE Senior Design 2018
 
-
-
+ 
+ 
 
 #### What I Learned
 
-**Data Analysis Tools** → Visual Basic Application, R
+***Data Analysis Tools*** → Visual Basic Application, R
 
-**Simulation Modeling** → Simio
+***Simulation Modeling*** → Simio
 
-**Soft Skills and Critical Thinking** → Surveying, Supply Chain, Forecasting
-
-
+***Soft Skills and Critical Thinking*** → Surveying, Supply Chain, Forecasting
+ 
+ 
+  
 ![image](https://user-images.githubusercontent.com/85593608/121385030-c49cb580-c916-11eb-8102-e21698a2c02e.png)
 
