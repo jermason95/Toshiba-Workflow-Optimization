@@ -14,12 +14,12 @@ These are frustrations we all have when we shop, and we all shop for groceries, 
 
 
 
-The main findings of our report can be see at 
+### The main findings of our report can be see at 
 
 https://github.com/jermason95/Toshiba-Workflow-Optimization/blob/c977bb989c069ca88f2b3eed8fed445d8a0dd287/Copy%20of%20Toshiba%20Final%20Report.pdf
 
 
-The simulation model used to analyze our new supermarket layout can be seen here: 
+### The simulation model used to analyze our new supermarket layout can be seen here: 
 
 https://www.youtube.com/watch?v=6uo1KxRwj-Q&list=WL&index=1
 
@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=6uo1KxRwj-Q&list=WL&index=1
 
 
 
-### Success of this project:
+#### Success of this project:
 
 **Customer Experience** → Average time in queque dropped 91%, Average number of customers in queque down 94%
 
@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=6uo1KxRwj-Q&list=WL&index=1
 
 
 
-### What I Learned
+#### What I Learned
 
 **Data Analysis Tools** → Visual Basic Application, R
 
