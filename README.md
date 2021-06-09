@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=6uo1KxRwj-Q&list=WL&index=1
 
 
 
-(https://github.com/jermason95/Toshiba-Workflow-Optimization/Copy of Toshiba Final Report.pdf)
+(https://github.com/jermason95/Toshiba-Workflow-Optimization/Copy-of-Toshiba-Final-Report.pdf)
 
 
 
