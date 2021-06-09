@@ -13,22 +13,18 @@ These are frustrations we all have when we shop, and we all shop for groceries, 
 •	Improving loss prevention methods
 
 
-![image](https://user-images.githubusercontent.com/85593608/121385030-c49cb580-c916-11eb-8102-e21698a2c02e.png)
 
-
-
-
-The main findings of our report can be see at .see report full report above Copy of Toshiba Final Report.pdf
-
-
-The simulation model used to analyze our new supermarket layout can be seen here: 
-https://www.youtube.com/watch?v=6uo1KxRwj-Q&list=WL&index=1
-
+The main findings of our report can be see at 
 
 https://github.com/jermason95/Toshiba-Workflow-Optimization/blob/c977bb989c069ca88f2b3eed8fed445d8a0dd287/Copy%20of%20Toshiba%20Final%20Report.pdf
 
 
-(https://github.com/jermason95/Toshiba-Workflow-Optimization/Copy-of-Toshiba-Final-Report.pdf)
+The simulation model used to analyze our new supermarket layout can be seen here: 
+
+https://www.youtube.com/watch?v=6uo1KxRwj-Q&list=WL&index=1
+
+
+
 
 
 
@@ -50,4 +46,7 @@ https://github.com/jermason95/Toshiba-Workflow-Optimization/blob/c977bb989c069ca
 **Simulation Modeling** → Simio
 
 **Soft Skills and Critical Thinking** → Surveying, Supply Chain, Forecasting
+
+
+![image](https://user-images.githubusercontent.com/85593608/121385030-c49cb580-c916-11eb-8102-e21698a2c02e.png)
 
