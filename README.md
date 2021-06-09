@@ -17,7 +17,7 @@ These are frustrations we all have when we shop, and we all shop for groceries, 
 
 
 
-The main findings of our report can be see at .see report full report above "Copy of Toshiba Project"
+The main findings of our report can be see at .see report full report above Copy of Toshiba Final Report.pdf
 
 
 A copy of the simulation described in the report can be seen here: 
