@@ -18,15 +18,16 @@ These are frustrations we all have when we shop, and we all shop for groceries, 
 
 https://github.com/jermason95/Toshiba-Workflow-Optimization/blob/c977bb989c069ca88f2b3eed8fed445d8a0dd287/Copy%20of%20Toshiba%20Final%20Report.pdf
 
+<br/>
 
 ### The simulation model used to analyze our new supermarket layout can be seen here: 
 
 https://www.youtube.com/watch?v=6uo1KxRwj-Q&list=WL&index=1
 
  
-  
-  
-  
+  <br/>
+  <br/>
+  <br/>
 
 #### Success of this project:
 
